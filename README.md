@@ -26,5 +26,5 @@ It covers data handling, statistical analysis, visualization, and machine learni
 
 Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/<yash-mundhe>/< Study of Anaconda IDE and Its Installation  >.git
 cd <repo-name>
